@@ -1,0 +1,2 @@
+# mecanismo
+Página de venta
